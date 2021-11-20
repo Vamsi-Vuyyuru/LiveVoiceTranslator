@@ -274,7 +274,7 @@ def synthesize_text(text,target, counter,c1,c2,modd):
     Current_Dir = os.getcwd()   # Storing the Home(current) directory
 
 
-    os.chdir('/Users/syamsi/Desktop/LVTGoogleCloud/venv/Audio_Output')  # Changing directory to Audio-Output
+    os.chdir('Audio_Output/')  # Changing directory to Audio-Output
 
 
     # The response's audio_content is binary.
