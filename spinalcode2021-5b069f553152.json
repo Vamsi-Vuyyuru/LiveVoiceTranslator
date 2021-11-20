@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "spinalcode2021",
+  "private_key_id": "5b069f553152ba0e6586451b0dd6e16566ef8e1b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQD5x0w+SbYV4i7G\nrgM/KxStdZrb/fPE4Ovq5FwLmm13uIZJTL+YCR0Ely4R3xjKTuxNd9U1LHPl4wqM\n6Vp1kzBabb7NG2ptF6KPQ270LBAaowRmbU/TLDVfenRrYLRdBHbuMID/GRzTE3/+\nP2T9dKhgVf2D2A3VhJTLk7uKtb284dHF9bRbb2ZZ5jIU3EiCaUJzxHVUSFTCZWZ+\nwqa0sEZ/KlmJHSvOEkTBL+Z9zWXOOEaFbxnMJxkca5h8pf2Mr9kzxDuU3Cn9Unzg\nr8Ti0Zq8+UCKhpq71ASgodIIo6V4cT2XCwz/sRetYun6TjEVk5jC9suxNujgUvo5\nBeHtolOnAgMBAAECggEAHu3TST6RD1pPxtFYXJOQlBQP0Mrm9bY7mv1GT+Is85oD\n+C1KkjXFWUKrypG7Z5295q/T1P7uplo7/baNjtPi370JgdYHEoAj5HqJ/C6Sm0HG\nszTjoWIEL+ZMES8ggQjNqJvqn+vzpPLGssHAgclWv4Brtnjj6aW+U7ZfjthcqM0i\nWhh2G8QgvnJsvMIVZzfdFo00I6FhMnv8rO8d0eyc5PoXsX7oLQdAmtm9leBibvDI\nTVhsI0yGqfTNXbXaGL5F0s7PLKJvFim0RNTePDpNFqy+hVtNhD7Ot7HaaY0XRl+F\nmOjZ5xdbakXIJmQvNAdIKq4/CnYheG+AqdjJbeiN/QKBgQD+2pbLnLV+xZISx95q\nJPuwFVOAgVzLVAJU31wCupswCVSGNsAt7EUxbxKh6ioXnZXIgF2dKE5737eaiR+r\n+9jVgW1ifGv18eQpbXLN70dxik1ARNtdEbnSdT13SUqQyazYrAWrBFoF7+UZCdyo\nGWZaxaELMR/SyWZ8vG+nL5XdUwKBgQD65t2V72jnrqSfG7uyMPNPswsWtZusY2iR\njIWkYWRXiV4pTseVxwax73b50IcT738IRVNO0ArAlbdSB/hU2/x9I/PpBHNYfNLt\ni5u3QH6kV9//jc3Zxzgudnllv9z1YpMUFCMvCXrxJ4w4JC8XXFLhd3u7QH5ZPPQE\nGP+CpnlR3QKBgAXVQvZOE+le5EUBxhlv10LkehDK5TDSL2t54UU+uCaVUBXyUtu6\nOKs0+5wxG92GgdMg/QOH1KQJLs6erNbm4MOiPrquVlo+uxYnpyUHgP8cR0BdUxgC\nO9qRTGLajpZZx1b+OPL9GoJgR0IXc7F1Q154f4MeELhmW64nMfcFo8x5AoGATzyD\ntCs0jR5pXNosT50H6h6YHObjr/CBAJ5JQl2Di+WU+CSqAVImeiEvCLvjPNeA3cLP\nCW/IRYPCrkRYF6yVs4ucJvXB26soDd7uIVRb6ljaI+HLpcA1rO67bffGtzQXUNr/\nNYaf7fLYZI6A1LbSceQDDmLSxCnswjKG1uLuI30CgYEA4ep9KNQtoDJYCoePbVT+\nwe0w1JXb5JYXibtLe5XbilTiGAD/yU6nVUqZLW1fQx2cIzyfNwDVaEG2eAz/frbk\n+IlH8t/YF5GMcwM4+4Qj3EyqjkBbkOWtglwajoMphN9tZstFlsb8uUngUZdeAUGE\n8ec/xjzn5ETq7kquYJDEeSw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "spinalcodeservice@spinalcode2021.iam.gserviceaccount.com",
+  "client_id": "117810360560657155896",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/spinalcodeservice%40spinalcode2021.iam.gserviceaccount.com"
+}
