@@ -7,7 +7,7 @@ import streamlit as st
 #from PIL import Image
 import time
 
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'spinalcode2021-5b069f553152.json'
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'ServAcc_sv_cloud_admin.json'
 from google.cloud import speech
 
 import pyaudio
